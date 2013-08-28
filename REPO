@@ -1,4 +1,5 @@
 d:binutils
+d:kbd
 d:gcc
 d:libgmp
 d:bash
@@ -11,6 +12,9 @@ d:filesystem
 f:290f0fc59cc74e5a6f3af7395db8a7b9:binutils/.md5sum
 f:7b775dcc5356f49cce0ea82bd6081f26:binutils/Pkgfile
 f:bfce6e4bb762d06ebb8d845f33358cf9:binutils/.footprint
+f:70189bbaa971433cdbcbd7b8ffea7907:kbd/.md5sum
+f:9190d2f8fc9f31d29c2d6f9b951cfdc0:kbd/Pkgfile
+f:b007d485cbf0d58cb88968b30c32ebb9:kbd/.footprint
 f:6ff9e6c5e7de6200d79c00a45a2e7b47:gcc/.md5sum
 f:1d2ed732f9767d838cb8ea1032c0bb50:gcc/Pkgfile
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
@@ -28,6 +32,7 @@ f:9345b34f5b0a0607881a8a6a655114ee:openssl/.md5sum
 f:25c07e1493c43c5fd6719baa532e0d44:openssl/Pkgfile
 f:9d0df57845af8acd1027a7df5c18d017:openssl/mksslcert.sh
 f:6121b8fecf3c7c917be8e13c653fa65e:openssl/.footprint
+f:79e3625d837f9d83d97a65206e1be205:core-arm.httpup
 f:3d4a5f24f5ef3d69d37cf413ebc153e5:util-linux/.md5sum
 f:e692fe9b426935ff0f8fd082667b6e93:util-linux/Pkgfile
 f:3a234f7c0bf44c13ee880bcd979a0223:util-linux/.footprint
